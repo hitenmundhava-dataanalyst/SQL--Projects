@@ -21,4 +21,4 @@ This repository contains SQL scripts and ideas for practicing database managemen
 ## 📌 Projects
 - [Student Records Database](Student%20Records%20Database.sql)
 - [Library Management Database](Library%20Management%20Database.sql)
-- [Hospital Patient Database]()
+- [Hospital Patient Database](Hospital%20Patient%20Database.sql)
